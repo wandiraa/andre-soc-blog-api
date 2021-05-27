@@ -1,7 +1,7 @@
 {
   "name": "andre-soc-blog-api",
   "version": "1.0.0",
-  "description": "Insignia-express-api",
+  "description": "Project test on SALT",
   "main": "env/index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=production && npm run server:prod",

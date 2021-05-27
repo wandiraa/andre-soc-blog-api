@@ -31,7 +31,7 @@ mongoose.set("debug", appConfig.mongoDebug);
 const connectMongo = async () => {
     let connectionuri = appConfig.dbConnectionString;
     // console.log("Mongo running on " + connectionuri);
-    await mongoose.connect(connectionuri, {
+    await mongoose.connect(process.env.MONGODB_URI || connectionuri, {
         //autoReconnect: true,
         //reconnectTries: 1000000,
         //reconnectInterval: 3000,

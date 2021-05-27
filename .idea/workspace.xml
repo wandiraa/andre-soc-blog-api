@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b8bd358-b3cd-4346-b990-a2d9690bbd99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rtTpOOUGpAExNjqcTanNBkSbnl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Telegram Desktop/full-version" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+      <recent name="$PROJECT_DIR$/env" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b8bd358-b3cd-4346-b990-a2d9690bbd99" name="Default Changelist" comment="" />
+      <created>1619794569854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619794569854</updated>
+      <workItem from="1619794570930" duration="1196000" />
+      <workItem from="1619795938114" duration="1702000" />
+      <workItem from="1620097390987" duration="975000" />
+      <workItem from="1620099206545" duration="12000" />
+      <workItem from="1620099480274" duration="10000" />
+      <workItem from="1620099638476" duration="674000" />
+      <workItem from="1620100334842" duration="91000" />
+      <workItem from="1620101479376" duration="627000" />
+      <workItem from="1620221311558" duration="5900000" />
+      <workItem from="1620264175527" duration="1339000" />
+      <workItem from="1620280029066" duration="4169000" />
+      <workItem from="1620300432737" duration="10377000" />
+      <workItem from="1620352383789" duration="15000" />
+      <workItem from="1620360108999" duration="1447000" />
+      <workItem from="1620537790116" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="333" width="497" height="273" key="#Updates" timestamp="1620097716958">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="541" y="333" width="497" height="273" key="#Updates/0.27.1600.873@0.27.1600.873" timestamp="1620097716958" />
+    <state x="583" y="221" width="424" height="491" key="FileChooserDialogImpl" timestamp="1620538090662">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="583" y="221" width="424" height="491" key="FileChooserDialogImpl/0.27.1600.873@0.27.1600.873" timestamp="1620538090662" />
+  </component>
+</project>
